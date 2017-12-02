@@ -1,0 +1,31 @@
+Check list for laboratory reports.
+
+Formato y forma:
+- [x] Ortografia 
+- [x] Estilo
+- [ ] Estructura
+- [x] Originalidad
+- [x] Imagens, Tablas y Referencias
+- [ ] Estilo de referencias: no es la manera correcta de hacer citas en reporte, utilice las referencias numéricas.
+
+Contenido:
+- [x] Introducción
+- [x] Metodología
+- [x] Desarrollo
+- [x] Simulación
+- [x] Resultados 
+- [x] Conclusiones
+
+Comparación de los resultados:
+- [x] Scilab y Ecuaciones 
+- [x] Respuesta al escalón
+- [x] Modos de operación del sistema Wo=Wi, Wo><Wi
+- [ ] Conclusiones: Ramirez-Arguello y Martinez-Lopez: las conclusiones no dicen nada, ni siquiera son técnicas; 
+
+Repositorio:
+- [x] Carpetas
+- [x] Código Scilab
+- [x] Código de Latex
+- [x] Entregado en tiempo
+
+Grade = 90
